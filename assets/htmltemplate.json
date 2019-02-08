@@ -1,0 +1,186 @@
+{
+    "tagName": "div",
+    "attributes": ["class","container"],
+    "innerText": "",
+    "children": [{
+        "tagName": "table",
+        "attributes": ["id", "myTable"],
+        "innerText": "",
+        "children": [{
+            "tagName": "tr",
+            "attributes": "",
+            "innerText": "",
+            "children": [{
+                "tagName": "th",
+                "attributes": "",
+                "innerText": "Name",
+                "children": ""
+            },{
+                "tagName": "th",
+                "attributes": "",
+                "innerText": "Last Name",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        },{
+            "tagName": "tr",
+            "attributes": ["onclick", "ShowMoreDetails(this.getAttribute('data-id'))"],
+            "innerText": "",
+            "children": [{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            },{
+                "tagName": "td",
+                "attributes": "",
+                "innerText": "",
+                "children": ""
+            }]
+        }]
+    },{
+        "tagName": "button",
+        "attributes": [["class", "btn btn-primary"], ["onclick", "Previous()"]],
+        "innerText": "Previous",
+        "children": ""
+    },{
+        "tagName": "button",
+        "attributes": [["class", "btn btn-primary"], ["onclick", "Next()"]],
+        "innerText": "Next",
+        "children": ""
+    }]
+}
